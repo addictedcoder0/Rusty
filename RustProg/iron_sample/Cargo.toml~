@@ -1,0 +1,9 @@
+[package]
+name = "iron_sample"
+version = "0.1.0"
+authors = ["abhishek.s <abhishek.s@zohocorp.com>"]
+
+[dependencies]
+iron="*"
+persistent="*"
+router = "*"

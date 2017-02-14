@@ -1,0 +1,9 @@
+[package]
+name = "iron_sample"
+version = "0.1.0"
+authors = ["abhishek"]
+
+[dependencies]
+iron="*"
+persistent="*"
+router = "*"
